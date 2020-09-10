@@ -1,0 +1,15 @@
+.log-in {
+    position: relative;
+    max-width: 500px;
+    top: 100px;
+    margin: auto;
+    display:block
+    
+  }
+  
+  .border-area {
+    border-radius: 30px;
+    padding: 60px;
+    border: 2px solid gray;
+  
+  }

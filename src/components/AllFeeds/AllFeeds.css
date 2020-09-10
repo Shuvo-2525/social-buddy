@@ -1,0 +1,26 @@
+.all-feeds {
+    background-color: rgb(49, 2, 2);
+}
+
+.color-font {
+    color : white ;
+}
+
+.title-color-font{
+    color : green
+
+}
+.all-feeds {
+    border-radius: 25px;
+    border:1px solid black;
+    margin: 65px;
+    padding: 50px;
+
+}
+
+.all-feeds img {
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+
+}
